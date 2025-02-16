@@ -6,4 +6,8 @@ function subtraction(a, b){
     return a - b;
 }
 
-export {add, subtraction};
+function multipication(a, b){
+    return a - b;
+}
+
+export {add, subtraction, multipication};
